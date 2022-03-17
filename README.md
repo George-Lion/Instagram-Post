@@ -1,3 +1,22 @@
+## The Instagram Post
+
+When working with the `<div>` tag, the important thing is to segment each container so that its content has flexibility when applying its respective properties. For this exercise, the container spindle is the main axis in the layout of the Instagram post.
+
+The fundamentals applied in carrying out this exercise are:
+
+* Basic structure for every HTML5 website.
+* The Link tag to import CSS Rules.
+* Implementation of display property.
+* CSS selectors.
+ 
+Recommended websites for theme icons, images and tools:
+
+[-Google Fonts Pages](https://fonts.google.com/).
+
+[-Fontawesome Pages](https://fontawesome.com/).
+
+[-Pexel Pages](https://www.pexels.com/es-es/).
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
