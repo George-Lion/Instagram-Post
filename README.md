@@ -1,13 +1,14 @@
 ## The Instagram Post
 
-When working with the `<div>` tag, the important thing is to segment each container so that its content has flexibility when applying its respective properties. For this exercise, the container spindle is the main axis in the layout of the Instagram post.
+When working with the `<div>` tag, the important thing is to segment each container so that its content has flexibility when applying its respective properties.
 
-The fundamentals applied in carrying out this exercise are:
+For this exercise, the main axis is the `<div>` tag, in it each of the elements that make up the header, body and footer of our Instagram publication were divided, after building the structure we elaborate its content with the tags ` <h1…h4>` for titles, `<p>` for paragraphs, and `<img>` for images. Then in the css properties we apply the corresponding selectors for each of the elements and finally, after having the entire structure, an elaboration of the aesthetic part was arranged so that its design was similar to that of an Instagram post.
+
+Concepts applied in architecture:
 
 * Basic structure for every HTML5 website.
-* The Link tag to import CSS Rules.
-* Implementation of display property.
-* CSS selectors.
+* The link tag to import CSS rules.
+* Implementation of display property and CSS selectors.
  
 Recommended websites for theme icons, images and tools:
 
